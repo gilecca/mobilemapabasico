@@ -1,1 +1,2 @@
-navegação - drawer
+navegação - bottom tabs
+
